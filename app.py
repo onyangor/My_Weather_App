@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import os
 
 # ================= CONFIG =================
-WEATHER_API_KEY = "508b0a659c5748acbb7180136261602"
+WEATHER_API_KEY = "YOUR_WEATHER_API_KEY" # Get your own key from weatherApi
 BASE_URL = "https://api.weatherapi.com/v1/forecast.json"
 
 # ⚠️ FOR SUBMISSION ONLY (NOT RECOMMENDED LONG TERM)

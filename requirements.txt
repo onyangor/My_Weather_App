@@ -1,0 +1,7 @@
+streamlit
+requests
+pandas
+pydeck
+matplotlib
+streamlit-lottie
+openai
